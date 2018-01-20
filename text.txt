@@ -1,2 +1,2 @@
-Promiana s Bash.
-Promiana s Tortoise.
+Promiana s Bash
+Promiana s Tortoise
